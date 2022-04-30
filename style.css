@@ -1,0 +1,110 @@
+body {
+   
+    /*
+    margin-left: 5vw;
+    margin-right: 5vw;*/
+    width: 90vw;
+    font-family: 'Raleway', sans-serif;
+
+    font-weight: 400;
+}
+.container--header { 
+    background-image: url(form-background.jpg);
+    background-size: cover;
+}
+
+
+/*ul {
+    display:flex;
+    justify-content: right;
+}*/
+nav {
+    background-color:rgba(0, 0, 0, 0.3);
+}
+ul {
+    padding-left: 0;
+}
+.klub {
+    list-style: none;
+    font-size: 18px;
+    float: left;
+ 
+}
+.nav-li {
+    list-style: none;
+    float: right;
+}
+a {
+    text-decoration: none;
+    color:#c2c2c2 ;
+    font-size: 0.7rem;
+}
+.active {
+    font-size: 18px;
+}
+.menulink {
+    font-size: 1rem;
+}
+h1 {
+   
+    font-size: 36px;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+
+}
+.paraheader{
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+.--myform {
+  
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.formhead {
+ background-color: rgba(0, 0, 0, 0.35);
+ 
+}
+.h2--form {
+    font-size: 36px;
+    color: white;
+    font-weight: 400;
+    padding-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 0; 
+}
+.lh-1--mine {
+    display: inline-block;
+    font-size: 1rem;
+    color: white;
+    margin-left: 15px;
+    margin-top: 0;
+    
+}
+.col-3--mine {
+    background-color:rgba(0, 0, 0, 0.3);
+}
+.form-control-sm--mine {
+ 
+   margin: 15px;
+   width:90%;
+   padding:3px 12px 6px 12px;
+}
+.mytextarea {
+    width:90%;
+    margin: 0 15px 15px 15px;
+    border-radius: 5px;
+    padding: 10px 12px;
+}
+
+::placeholder {
+    font-size: 15px;
+    font-weight: 400;
+}
+/*.nav-item--mine {
+    text-align: end;
+}*/
+.nav-link--klub {
+    text-align: left;
+}
