@@ -50,13 +50,16 @@ a {
 a:hover {
     color: white;
 }
+
+    
+
 h1 {
    margin-top: 42%;
    margin-bottom: 1%;
     font-size: 36px;
     font-weight: 600;
     color: white;
-    
+
     text-align: center;
 
 }
@@ -178,6 +181,7 @@ h1 {
 .buttongroup {
     display: flex;
     justify-content: center;
+    margin-bottom: 30vh;
 }
 .filmanna {
 
